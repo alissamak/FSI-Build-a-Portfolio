@@ -1,0 +1,24 @@
+div{
+    font-family: 'Lucida Sans';
+
+}
+body{
+    background-color:#F6F8E8;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans';
+
+}
+h2{
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: #fed9c9;
+}
+h3{
+    font-family: 'Lucida Sans';
+    color: #c1e1d2;
+}
+.favp{
+    text-align: center;
+}
